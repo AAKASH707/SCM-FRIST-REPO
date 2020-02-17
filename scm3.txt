@@ -1,0 +1,16 @@
+working on stasj\hing and code for addition in cpp
+
+//CPP CODE FOR ADDITION
+
+#include <iostream>
+using namespace std;
+int main() {
+    int firstNumber, secondNumber, sum;
+    cout << "Enter two integers: ";
+    cin >> firstNumber >> secondNumber;
+    // sum of two numbers in stored in variable sum
+    sum = firstNumber + secondNumber;
+    // Prints sum
+    cout << firstNumber << " + " << secondNumber << " = " << sum;
+    return 0;
+}
