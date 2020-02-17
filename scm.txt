@@ -1,0 +1,2 @@
+This is the frist time in git and ,using text editor
+for this pourpose.
