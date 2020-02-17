@@ -1,2 +1,14 @@
 This is the frist time in git and ,using text editor
 for this pourpose.
+
+
+//CODE FOR HELLO WORLD
+
+#include<iostream>
+using namespace std;
+int main()
+{
+	cout<< "Hello World";
+	return 0;	
+}
+
